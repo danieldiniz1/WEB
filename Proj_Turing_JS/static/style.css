@@ -1,0 +1,20 @@
+body{ 
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: #4293b8; 
+    padding: 20px; 
+}
+
+.corpo {
+    background-color: #4293b8; 
+    padding: 20px;
+    align-items: center;
+}
+
+.div-padrao{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding: 15px; 
+} 
+
